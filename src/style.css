@@ -1,0 +1,32 @@
+.container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    margin-top: 70px;
+}
+
+.textoFrase{
+    font-style: italic;
+    color:#dd7b22;
+    text-align: center;
+}
+
+.titulo{
+    font-style: italic;
+    color:#dd7b22;
+    text-align: center;
+}
+
+.Botao{
+    border-radius: 20px;
+    width: 200px;
+    margin-top: 30px;
+}
